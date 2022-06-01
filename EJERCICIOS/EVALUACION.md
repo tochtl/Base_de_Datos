@@ -67,27 +67,3 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 ![image](https://user-images.githubusercontent.com/102439883/170845881-490be95e-8122-4a91-bb2f-a32b9ee51043.png)
 
-CREATE DATABASE editorial;
-USE editorial;
-
-CREATE TABLE sucursal(
-  codigo_sucursal INT UNSIGNED PRIMARY KEY,
-  domicilio VARCHAR(100) NOT NULL,
-  telefono BIGINT NOT NULL  
-);                
-
-CREATE TABLE revista(
-  no_registro INT UNSIGNED PRIMARY KEY,
-  tipo VARCHAR(100) NOT NULL,
-  periosidad VARCHAR(100) NOT NULL,
-  titulo_revi VARCHAR(100) NOT NULL
-);  
-
-
-CREATE TABLE periodista(
-  NIF_peri INT UNSIGNED PRIMARY KEY,
-  nombre_peri VARCHAR(100) NOT NULL,
-  apellido_peri VARCHAR(100) NOT NULL,
-  telefono_peri VARCHAR(100) NOT NULL,
-  especialidad VARCHAR(100) NOT NULL  
-);
