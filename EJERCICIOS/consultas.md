@@ -6,11 +6,31 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 ![image](https://user-images.githubusercontent.com/102439883/172027451-10cf3b43-6142-4114-ae9d-476223a69351.png)
 
-
 * Los titulos de las revistas
+
+![image](https://user-images.githubusercontent.com/102439883/172027592-0712d339-c983-4cca-b9e2-50b967b964cf.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172027621-c5d02f40-44af-49b1-8b42-95e22ced6598.png)
+
 * Los nombres, apellidos y especialidad de los periodostas
+
+![image](https://user-images.githubusercontent.com/102439883/172027703-0c0920f6-7671-4cc2-bc94-bf79bc6bab90.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172027725-905abe7b-a809-45ab-9e8f-37929aa9b0fc.png)
+
 * Muestra los empleados que estan en x sucursal
+
+![image](https://user-images.githubusercontent.com/102439883/172028153-3c2fa48c-2881-4063-96a1-2336e02ccff1.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172028166-6f03d87b-0a19-4ba2-b9b5-ffaf70734176.png)
+
+
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
+
+![image](https://user-images.githubusercontent.com/102439883/172029554-1964de00-bf16-4c5e-a7c6-a242aa4606da.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172029574-6a5c7251-0160-4388-a1f2-b418ba119e7f.png)
+
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 * En la tabla peridistas muestra solo los que escriban sobre cine
 * De la tabla revistas muestra las que sean de publicacion quincenal
