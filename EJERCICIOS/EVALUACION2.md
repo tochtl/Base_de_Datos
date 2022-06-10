@@ -79,9 +79,8 @@ Tienda de informática
 
 
 Modelo entidad/relación
+![image](https://user-images.githubusercontent.com/102439883/172976277-1d56a18b-a6fb-45a2-8846-76f46668800b.png)
 
-
-![image](https://user-images.githubusercontent.com/102439883/172974684-6407044e-d48e-41fd-a5cf-17c445d8843a.png)
 
 
 
@@ -89,4 +88,4 @@ Modelo entidad/relación
 
 Base de datos para MySQL
 
-https://www.db-fiddle.com/f/8WoaTMUFf1vxf9y8c6JS1q/2
+https://www.db-fiddle.com/f/8WoaTMUFf1vxf9y8c6JS1q/3
