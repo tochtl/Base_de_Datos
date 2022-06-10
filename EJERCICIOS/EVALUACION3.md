@@ -20,6 +20,7 @@ Data warehouse es un sistema que agrega y combina información de diferentes fue
 ![image](https://user-images.githubusercontent.com/102439883/172678107-e65e7a07-6b74-408f-a1e1-dfe5f5a279c1.png)
 
 
+
 ## Práctica 7
 ### Funciones en SQL
 Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la gestión
@@ -31,6 +32,10 @@ Ejercicio:
 ![image](https://user-images.githubusercontent.com/102439883/172980383-d2cea59d-d960-45ab-87de-204e390d65fc.png)
 
 ![image](https://user-images.githubusercontent.com/102439883/172980468-ba5d99bf-9ce8-4111-8706-d67f0f5c3f77.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172980603-314b16cc-6abc-4944-b8a2-94b9f429c825.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172980625-f175575e-028a-44d0-a986-36c9ea2926ed.png)
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
