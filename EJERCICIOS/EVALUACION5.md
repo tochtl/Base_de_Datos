@@ -6,6 +6,10 @@ Evaluación: Para poder tener correcto cada ejercicio deberán de mostrar el res
 
 Lista el nombre de todos los productos que hay en la tabla producto.
 
+![image](https://user-images.githubusercontent.com/102439883/172985226-7a228509-0359-4e11-920d-0da653b35ec8.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172985273-a7f18120-f8eb-4081-8e46-68d29ce92546.png)
+
 
 1. Lista los nombres y los precios de todos los productos de la tabla producto.
 
@@ -15,6 +19,9 @@ Lista el nombre de todos los productos que hay en la tabla producto.
 
 2. Lista todas las columnas de la tabla producto.
 
+![image](https://user-images.githubusercontent.com/102439883/172985401-9e75f847-c39a-4cf2-91c2-f9156786c7cd.png)
+
+![image](https://user-images.githubusercontent.com/102439883/172985454-80e76f3a-ba62-47ae-9417-2953aa5c19f7.png)
 
 
 3. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de
