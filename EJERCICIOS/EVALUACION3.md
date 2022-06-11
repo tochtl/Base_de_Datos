@@ -48,6 +48,10 @@ productos. (valor 4.5)
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/102439883/173206938-8590662a-b008-426d-baee-e8adaeb841cc.png)
+
+![image](https://user-images.githubusercontent.com/102439883/173206943-ec709535-fa1d-44ee-8f7f-601b27a84fe9.png)
+
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
