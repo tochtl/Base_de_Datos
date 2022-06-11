@@ -36,6 +36,9 @@ Subconsultas (En la cláusula WHERE)
 1. Devuelve todos los productos del fabricante Lenovo. (Sin utilizar INNER
 JOIN).
 
+![image](https://user-images.githubusercontent.com/102439883/173208560-67992428-1b14-4b9b-bf14-d817aa11d94f.png)
+
+![image](https://user-images.githubusercontent.com/102439883/173208576-baab0f72-ca2b-476e-85f5-ca056481daf2.png)
 
 2. Devuelve todos los datos de los productos que tienen el mismo precio que el
 producto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
